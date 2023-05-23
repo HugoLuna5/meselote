@@ -1,4 +1,4 @@
-const serverURL = "http://127.0.0.1:5500/";
+const serverURL = "https://meselote-77r57.ondigitalocean.app/";
 
 let playlists = [
   {
